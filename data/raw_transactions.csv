@@ -1,0 +1,185 @@
+﻿date,description,amount,type,category,payment_method,note
+2026-11-06,Cổ tức,1453556,thu,Đầu tư,Thẻ,
+2026-06-22,Quà,75580,chi,Khác,Tiền mặt,
+2026-06-19,Chi tiêu linh tinh,345631,chi,Khác,Thẻ,
+2026-07-22,Xem phim,474374,chi,Giải trí,Thẻ,
+2026-08-22,Mua quần áo,785889,chi,Mua sắm,Tiền mặt,
+2026-06-20,Khám bệnh,673052,chi,Sức khỏe,Tiền mặt,
+2026-10-11,Thưởng hiệu suất,1130511,thu,Thưởng,Ví điện tử,
+2026-11-23,Lãi tiết kiệm,1255874,thu,Đầu tư,Tiền mặt,
+2026-06-21,Tiền điện,965108,chi,Hóa đơn,Ví điện tử,Giao dịch thường xuyên
+2026-07-19,Xăng xe,74862,chi,Di chuyển,Thẻ,
+2026-09-01,Quà,145141,chi,Khác,Tiền mặt,
+2026-06-04,Sách,380746,chi,Giáo dục,Thẻ,Giao dịch thường xuyên
+2026-07-20,Khóa học,774079,chi,Giáo dục,Thẻ,Giao dịch thường xuyên
+2026-07-01,Quà,312579,chi,Khác,Bank,
+2026-08-27,Sửa chữa nhà,2568554,chi,Nhà ở,Tiền mặt,
+2026-06-24,Lương tháng,17708290,thu,Lương,Tiền mặt,
+2026-09-01,Tiền nước,1309633,chi,Hóa đơn,Tiền mặt,
+2026-11-17,Du lịch cuối tuần,452967,chi,Giải trí,Ví điện tử,
+2026-08-10,Điện thoại,206805,chi,Hóa đơn,Ví điện tử,
+2026-10-03,Du lịch cuối tuần,491277,chi,Giải trí,Thẻ,
+2026-08-30,Chi tiêu linh tinh,308058,chi,Khác,Ví điện tử,
+2026-05-31,Thưởng hiệu suất,2089807,thu,Thưởng,Tiền mặt,
+2026-10-19,Grab,157399,chi,Di chuyển,Thẻ,
+2026-11-11,Quà,116574,chi,Khác,Bank,
+2026-10-12,Siêu thị,733716,chi,Mua sắm,Ví điện tử,
+2026-10-06,Mua quần áo,551224,chi,Mua sắm,Ví điện tử,
+2026-10-24,Mua quần áo,95080,chi,Mua sắm,Tiền mặt,
+2026-06-13,Gym,114299,chi,Sức khỏe,Thẻ,Giao dịch thường xuyên
+2026-11-14,Quà,99369,chi,Khác,Thẻ,
+2026-09-08,Xe buýt,142997,chi,Di chuyển,Bank,
+2026-09-23,Cơm trưa,221518,chi,Ăn uống,Tiền mặt,
+2026-08-21,Xăng xe,95183,chi,Di chuyển,Thẻ,
+2026-07-01,Xem phim,292550,chi,Giải trí,Tiền mặt,
+2026-10-14,Cổ tức,361898,thu,Đầu tư,Thẻ,
+2026-09-08,Mua quần áo,921042,chi,Mua sắm,Thẻ,
+2026-05-27,Game,461078,chi,Giải trí,Ví điện tử,
+2026-11-21,Quà,377011,chi,Khác,Thẻ,
+2026-08-10,Cơm trưa,196828,chi,Ăn uống,Ví điện tử,
+2026-06-08,Chi tiêu linh tinh,308463,chi,Khác,Tiền mặt,
+2026-07-13,Lương tháng,17664093,thu,Lương,Bank,
+2026-10-19,Cơm trưa,207367,chi,Ăn uống,Bank,Giao dịch thường xuyên
+2026-08-01,Khám bệnh,290280,chi,Sức khỏe,Bank,
+2026-11-14,Tiền điện,863071,chi,Hóa đơn,Tiền mặt,
+2026-11-02,Xăng xe,49204,chi,Di chuyển,Ví điện tử,
+2026-08-24,Siêu thị,854954,chi,Mua sắm,Thẻ,
+2026-10-13,Quà,34101,chi,Khác,Tiền mặt,
+2026-08-02,Lương tháng,16640776,thu,Lương,Ví điện tử,Giao dịch thường xuyên
+2026-10-28,Gym,253487,chi,Sức khỏe,Ví điện tử,
+2026-07-30,Đặt đồ ăn,69195,chi,Ăn uống,Ví điện tử,
+2026-05-27,Sửa chữa nhà,2836123,chi,Nhà ở,Thẻ,
+2026-10-15,Chi tiêu linh tinh,35069,chi,Khác,Tiền mặt,
+2026-10-13,Thưởng hiệu suất,3243222,thu,Thưởng,Bank,
+2026-06-06,Cafe,138797,chi,Ăn uống,Thẻ,
+2026-08-25,Nạp học phí,750810,chi,Giáo dục,Thẻ,
+2026-07-07,Sửa chữa nhà,3348463,chi,Nhà ở,Tiền mặt,
+2026-08-20,Nạp học phí,802448,chi,Giáo dục,Thẻ,Giao dịch thường xuyên
+2026-07-06,Grab,130281,chi,Di chuyển,Bank,
+2026-07-17,Tiền nước,933286,chi,Hóa đơn,Thẻ,
+2026-06-02,Khóa học,444207,chi,Giáo dục,Tiền mặt,Giao dịch thường xuyên
+2026-08-24,Nạp học phí,812526,chi,Giáo dục,Ví điện tử,
+2026-06-25,Du lịch cuối tuần,143620,chi,Giải trí,Ví điện tử,
+2026-06-23,Khám bệnh,368914,chi,Sức khỏe,Tiền mặt,
+2026-10-21,Đặt đồ ăn,230803,chi,Ăn uống,Tiền mặt,
+2026-08-28,Khám bệnh,693425,chi,Sức khỏe,Tiền mặt,Giao dịch thường xuyên
+2026-10-03,Khóa học,442027,chi,Giáo dục,Ví điện tử,
+2026-07-15,Nạp học phí,810219,chi,Giáo dục,Thẻ,Giao dịch thường xuyên
+2026-09-07,Ăn tối,124658,chi,Ăn uống,Thẻ,
+2026-10-22,Khám bệnh,527575,chi,Sức khỏe,Bank,
+2026-10-04,Tiền thuê phòng,2881710,chi,Nhà ở,Ví điện tử,Giao dịch thường xuyên
+2026-06-19,Mua quần áo,730996,chi,Mua sắm,Thẻ,
+2026-06-02,Thưởng hiệu suất,3363868,thu,Thưởng,Bank,
+2026-11-04,Khóa học,618392,chi,Giáo dục,Thẻ,
+2026-11-10,Xăng xe,141449,chi,Di chuyển,Thẻ,
+2026-06-08,Xăng xe,149658,chi,Di chuyển,Bank,Giao dịch thường xuyên
+2026-09-17,Quà,253735,chi,Khác,Thẻ,
+2026-09-19,Đồ dùng,661564,chi,Mua sắm,Bank,
+2026-08-05,Game,172942,chi,Giải trí,Ví điện tử,Giao dịch thường xuyên
+2026-10-12,Lương tháng,13939961,thu,Lương,Thẻ,
+2026-06-12,Khám bệnh,608969,chi,Sức khỏe,Bank,
+2026-07-18,Nạp học phí,712451,chi,Giáo dục,Tiền mặt,
+2026-09-26,Thưởng hiệu suất,2052472,thu,Thưởng,Bank,
+2026-09-28,Sách,609232,chi,Giáo dục,Bank,Giao dịch thường xuyên
+2026-11-14,Sách,859359,chi,Giáo dục,Bank,
+2026-11-02,Nạp học phí,720644,chi,Giáo dục,Tiền mặt,
+2026-11-07,Tiền điện,581113,chi,Hóa đơn,Ví điện tử,
+2026-08-18,Khám bệnh,393894,chi,Sức khỏe,Ví điện tử,
+2026-07-30,Điện thoại,240649,chi,Hóa đơn,Tiền mặt,Giao dịch thường xuyên
+2026-07-23,Cơm trưa,242717,chi,Ăn uống,Thẻ,
+2026-06-01,Siêu thị,344704,chi,Mua sắm,Tiền mặt,
+2026-09-23,Gym,215939,chi,Sức khỏe,Tiền mặt,
+2026-08-14,Lương tháng,14616887,thu,Lương,Bank,
+2026-06-15,Đồ dùng,293702,chi,Mua sắm,Ví điện tử,
+2026-10-18,Khám bệnh,598623,chi,Sức khỏe,Ví điện tử,
+2026-10-03,Đặt đồ ăn,155115,chi,Ăn uống,Tiền mặt,
+2026-08-27,Tiền nước,520845,chi,Hóa đơn,Thẻ,Giao dịch thường xuyên
+2026-10-31,Quà,283491,chi,Khác,Bank,Giao dịch thường xuyên
+2026-08-17,Gửi xe,103119,chi,Di chuyển,Thẻ,
+2026-10-19,Sách,452737,chi,Giáo dục,Bank,Giao dịch thường xuyên
+2026-07-12,Khám bệnh,310902,chi,Sức khỏe,Ví điện tử,Giao dịch thường xuyên
+2026-10-16,Lương tháng,12718173,thu,Lương,Bank,
+2026-10-16,Tiền nước,1229326,chi,Hóa đơn,Tiền mặt,
+2026-08-10,Đồ dùng,722160,chi,Mua sắm,Ví điện tử,
+2026-10-15,Nạp học phí,882169,chi,Giáo dục,Ví điện tử,Giao dịch thường xuyên
+2026-11-22,Xem phim,181807,chi,Giải trí,Tiền mặt,
+2026-08-15,Cổ tức,1076574,thu,Đầu tư,Thẻ,
+2026-08-05,Quà,342890,chi,Khác,Tiền mặt,
+2026-08-10,Tiền thuê phòng,2133901,chi,Nhà ở,Thẻ,Giao dịch thường xuyên
+2026-06-07,Chi tiêu linh tinh,183163,chi,Khác,Bank,
+2026-05-30,Tiền nước,1203936,chi,Hóa đơn,Ví điện tử,
+2026-06-09,Tiền điện,439258,chi,Hóa đơn,Bank,
+2026-06-14,Cafe,84774,chi,Ăn uống,Ví điện tử,
+2026-07-29,Thưởng hiệu suất,3343080,thu,Thưởng,Bank,
+2026-09-17,Nạp học phí,420214,chi,Giáo dục,Tiền mặt,
+2026-07-19,Xem phim,396254,chi,Giải trí,Thẻ,
+2026-07-10,Sửa chữa nhà,1505611,chi,Nhà ở,Bank,
+2026-08-09,Thưởng hiệu suất,1985806,thu,Thưởng,Tiền mặt,
+2026-08-02,Mua quần áo,971581,chi,Mua sắm,Thẻ,
+2026-08-03,Xăng xe,45633,chi,Di chuyển,Ví điện tử,Giao dịch thường xuyên
+2026-09-16,Lãi tiết kiệm,1575450,thu,Đầu tư,Ví điện tử,
+2026-09-16,Lương tháng,15624119,thu,Lương,Ví điện tử,
+2026-06-19,Ăn tối,245477,chi,Ăn uống,Tiền mặt,
+2026-09-24,Tiền điện,783336,chi,Hóa đơn,Bank,
+2026-06-19,Khóa học,449499,chi,Giáo dục,Tiền mặt,
+2026-08-19,Điện thoại,804436,chi,Hóa đơn,Bank,
+2026-09-20,Thưởng hiệu suất,2155908,thu,Thưởng,Bank,
+2026-11-11,Tiền điện,1066642,chi,Hóa đơn,Thẻ,Giao dịch thường xuyên
+2026-11-02,Tiền điện,308237,chi,Hóa đơn,Ví điện tử,
+2026-08-08,Tiền điện,454648,chi,Hóa đơn,Thẻ,
+2026-08-14,Chi tiêu linh tinh,243904,chi,Khác,Thẻ,
+2026-09-22,Internet,2545169,chi,Nhà ở,Ví điện tử,Giao dịch thường xuyên
+2026-09-10,Tiền nước,711140,chi,Hóa đơn,Thẻ,
+2026-07-14,Chi tiêu linh tinh,101569,chi,Khác,Ví điện tử,
+2026-08-22,Chi tiêu linh tinh,170075,chi,Khác,Ví điện tử,Giao dịch thường xuyên
+2026-10-24,Tiền nước,511627,chi,Hóa đơn,Bank,Giao dịch thường xuyên
+2026-08-20,Quà,227766,chi,Khác,Ví điện tử,
+2026-11-21,Khóa học,344907,chi,Giáo dục,Tiền mặt,Giao dịch thường xuyên
+2026-09-25,Nạp học phí,504832,chi,Giáo dục,Thẻ,
+2026-06-05,Cổ tức,1692486,thu,Đầu tư,Bank,
+2026-10-08,Cafe,234384,chi,Ăn uống,Bank,
+2026-06-15,Du lịch cuối tuần,227503,chi,Giải trí,Bank,
+2026-08-19,Quà,229234,chi,Khác,Bank,
+2026-11-01,Cổ tức,1505354,thu,Đầu tư,Tiền mặt,
+2026-06-21,Xăng xe,146307,chi,Di chuyển,Ví điện tử,
+2026-06-07,Ăn tối,121904,chi,Ăn uống,Ví điện tử,
+2026-07-03,Nạp học phí,693418,chi,Giáo dục,Thẻ,
+2026-07-10,Thưởng hiệu suất,3399253,thu,Thưởng,Bank,
+2026-07-25,Game,290947,chi,Giải trí,Tiền mặt,
+2026-08-08,Sửa chữa nhà,1654899,chi,Nhà ở,Ví điện tử,Giao dịch thường xuyên
+2026-11-06,Game,289513,chi,Giải trí,Thẻ,
+2026-09-27,Thưởng hiệu suất,3198817,thu,Thưởng,Ví điện tử,Giao dịch thường xuyên
+2026-06-01,Sách,387813,chi,Giáo dục,Tiền mặt,
+2026-08-08,Mua quần áo,818870,chi,Mua sắm,Thẻ,Giao dịch thường xuyên
+2026-11-16,Tiền thuê phòng,2817531,chi,Nhà ở,Tiền mặt,Giao dịch thường xuyên
+2026-09-16,Thưởng hiệu suất,1351181,thu,Thưởng,Ví điện tử,Giao dịch thường xuyên
+2026-09-10,Lương tháng,16524880,thu,Lương,Ví điện tử,
+2026-07-31,Điện thoại,818956,chi,Hóa đơn,Ví điện tử,
+2026-09-23,Tiền thuê phòng,3081570,chi,Nhà ở,Bank,Giao dịch thường xuyên
+2026-06-19,Cơm trưa,114326,chi,Ăn uống,Bank,Giao dịch thường xuyên
+2026-11-15,Game,356477,chi,Giải trí,Ví điện tử,
+2026-11-15,Ăn tối,207410,chi,Ăn uống,Thẻ,
+2026-11-05,Game,390388,chi,Giải trí,Tiền mặt,
+2026-06-07,Xem phim,308277,chi,Giải trí,Tiền mặt,
+2026-10-11,Thưởng hiệu suất,2356135,thu,Thưởng,Thẻ,
+2026-11-10,Thưởng hiệu suất,3382232,thu,Thưởng,Ví điện tử,
+2026-11-19,Tiền điện,1132594,chi,Hóa đơn,Ví điện tử,
+2026-11-18,Khám bệnh,103491,chi,Sức khỏe,Ví điện tử,
+2026-06-27,Điện thoại,392253,chi,Hóa đơn,Thẻ,
+2026-06-08,Đồ dùng,344081,chi,Mua sắm,Thẻ,
+2026-10-15,Siêu thị,568633,chi,Mua sắm,Thẻ,
+2026-08-05,Internet,1772613,chi,Nhà ở,Ví điện tử,
+2026-06-24,Cơm trưa,79551,chi,Ăn uống,Ví điện tử,
+2026-10-24,Tiền thuê phòng,2056516,chi,Nhà ở,Thẻ,
+2026-10-08,Lương tháng,15995040,thu,Lương,Ví điện tử,
+2026-09-19,Ăn tối,235642,chi,Ăn uống,Bank,
+2026-06-11,Nạp học phí,546980,chi,Giáo dục,Tiền mặt,
+2026-09-17,Lương tháng,14702069,thu,Lương,Tiền mặt,
+2026-08-05,Quà,200490,chi,Khác,Ví điện tử,
+2026-10-03,Xăng xe,59992,chi,Di chuyển,Bank,
+2026-07-24,Tiền nước,1036197,chi,Hóa đơn,Tiền mặt,Giao dịch thường xuyên
+2026-09-13,Xem phim,246241,chi,Giải trí,Bank,
+2026/06/15,  ca phe  ,55000,CHI, an uống ,Ví điện tử,
+,Giao dịch thiếu ngày,100000,chi,Khác,Thẻ,cần xem lại
+2026-06-20,,200000,chi,Ăn uống,Tiền mặt,
+2026-09-01,Quà,145141,chi,Khác,Tiền mặt,
